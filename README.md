@@ -1,6 +1,6 @@
 # public-ip-internet
 Les ranges d'adresses public avec les maques les plus larges.
-Lire en mode raw pour les retour à la lignes
+# Lire en mode raw pour les retour à la lignes
 
 Ces ranges peuvent être très utiles pour configurer des firewalls, des systems d'optimisations wan (Ipanema, Streamcore, etc..)
 
