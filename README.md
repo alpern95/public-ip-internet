@@ -1,5 +1,6 @@
 # public-ip-internet
 Les ranges d'adresses public avec les maques les plus larges.
+Lire en mode raw pour les retour à la lignes
 
 (Exclusion 0.0.0.0 - 0.255.255.255)
 1.0.0.0      /8 = 1.0.0.0 - 1.255.255.255
