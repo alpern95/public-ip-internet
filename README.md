@@ -2,6 +2,8 @@
 Les ranges d'adresses public avec les maques les plus larges.
 Lire en mode raw pour les retour à la lignes
 
+Ces ranges peuvent être très utiles pour configurer des firewalls, des systems d'optimisations wan (Ipanema, Streamcore, etc..)
+
 (Exclusion 0.0.0.0 - 0.255.255.255)
 1.0.0.0      /8 = 1.0.0.0 - 1.255.255.255
 2.0.0.0      /7 = 2.0.0.0 - 3.255.255.255
